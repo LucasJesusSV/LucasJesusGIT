@@ -1,4 +1,4 @@
-Olá, Tudo Bem;
+Olá, Tudo Bem sou Lucas De Jesus 
 
 # 👨‍💻 Aprendendo JavaScript
 
