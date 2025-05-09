@@ -47,6 +47,9 @@ Se quiser trocar ideias ou dicas sobre programação, fique à vontade para me c
 
 📌 _Este repositório será constantemente atualizado conforme avanço nos estudos._
 
+<div style="display: inline_block"><br>
+<img align="center" alt="BootCamp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 
 
 
