@@ -1,5 +1,5 @@
 Olá, Tudo Bem;
-# 📦 Meu Projeto JavaScript
+# Meu Projeto JavaScript
 
 > Um projeto simples feito com JavaScript puro para demonstrar funcionalidades básicas da linguagem.
 
@@ -8,16 +8,16 @@ Olá, Tudo Bem;
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- 🟨 JavaScript
+-  JavaScript
 
 
 ---
 
-## 📁 Como usar
+##  Como usar
 
 ```bash
 # Clone este repositório
