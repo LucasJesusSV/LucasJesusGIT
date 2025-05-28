@@ -59,7 +59,11 @@ Se quiser trocar ideias ou dicas sobre programação, fique à vontade para me c
  </div>
  <a href="https://instagram.com/_lluquinnhas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Lucas de Jesus da Silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-https://github.com/LucasJesusGIT/blob/output/github-contribution-grid-snake.svg
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   </div>
 
 
