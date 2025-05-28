@@ -1,4 +1,4 @@
-*name: generate animation
+*nome: generate animation
 
 on:
   # run automatically every 24 hours
